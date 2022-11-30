@@ -65,6 +65,7 @@ public class Main {
 		System.out.printf("Abatimento: %.2f%n", abatimento);
 		System.out.printf("Imposto devido: %.2f%n", impostoDevido);
 		
+		sc.close();
 	}
 
 }
